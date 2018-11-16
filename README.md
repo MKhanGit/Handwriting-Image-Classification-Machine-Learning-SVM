@@ -2,7 +2,7 @@
 An interactive web app which uses an HTML5 front-end to pass images to a python back-end, which trains a Support Vector Machine to classify the given images.
 
 ## Deployed Example
-[Click to see this Machine Learning App in action](https://theoryofgravity.ca/draw/)
+<a href="https://theoryofgravity.ca/draw/" target="_blank">Click to see this Machine Learning App in action</a>
 
 ## Requirements
 * A web server or development environment, capable of executing Python/PHP and serving HTML pages.
